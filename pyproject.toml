@@ -1,0 +1,8 @@
+[project]
+name = "pydoom"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "pyglm>=2.8.3",
+    "raylib>=6.2.0.0",
+]
